@@ -4,11 +4,12 @@
   - [A propos](#a-propos)
   - [Contenu](#contenu)
   - [Participants](#participants)
-      - [Formateur](#formateur)
+    - [Formateur](#formateur)
     - [Apprentis](#apprentis)
   - [Contributions](#contributions)
 
 ## A propos
+
 Ce dépôt contient du matériel de soutien pour le cours Git et GitHub : versionner son code et travail collaboratif. Il s'agit d'un cours d'une journée qui vise à initier les étudiants à l'utilisation de Git et GitHub pour collaborer sur du code.
 
 > Les sujets ou concepts associés à ces deux outils sont vastes et de niveaux de complexité variés. Nous ne pouvons pas les couvrir tous de manière efficace. Par conséquent, les étudiants sont encouragés à consulter les ressources fournies et à effectuer des recherches complémentaires pour devenir compétents dans l'utilisation de ces outils et des concepts qui y sont liés.
@@ -23,12 +24,14 @@ Il est organisé comme suit :
 
 ## Participants
 
-#### Formateur
--  Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
+### Formateur
+
+- Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
 
 ### Apprentis
+
 - Noms, [compte GitHub](URL profil GitHub)
 
 ## Contributions
 
-Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment debuter entant que collaborateur sur ce dépôt.
+Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment contribuer sur ce projet.

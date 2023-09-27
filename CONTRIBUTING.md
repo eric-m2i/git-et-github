@@ -1,4 +1,4 @@
-# Contribuer à [Nom du Projet]
+# Contribuer au projet Git et GitHub
 
 Merci de votre intérêt pour contribuer à ce projet sur la formation Git et GitHub.
 
