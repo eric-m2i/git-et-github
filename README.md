@@ -1,2 +1,2 @@
-# git-et-github
-Supports du cours Git &amp; GitHub
+# Git et GitHub <sub>_versionner son code et travail collaboratif_</sub>
+
