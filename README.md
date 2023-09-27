@@ -17,20 +17,17 @@ Il est organisé comme suit :
 
 ## Contenu
 
-- Vous pouvez trouver la présentation PDF du cours [ici](./Git%20et%20Github%20_%20versionner%20son%20code%20et%20travail%20collaboratif.pdf)
-Elle contient tous les sujets que nous aborderons.
-
-- Tous les exercices sont disponibles dans le dossier [exercices](./exercices/) de ce référentiel.
-
+- Vous pouvez trouver la présentation PDF du cours [ici](./Git%20et%20Github%20_%20versionner%20son%20code%20et%20travail%20collaboratif.pdf). Elle contient tous les sujets que nous aborderons.
+- Tous les exercices sont disponibles depuis le dossier [exercices](./exercices/) de ce dépôt.
 - L'évaluation finale est [Exercice 4](./exercices/Git%20et%20Github%20_%20versionner%20son%20code%20et%20travail%20collaboratif-Exercice-4.pdf) et vise à valider les compétences acquises tout au long de ce cour.
 
 ## Participants
 
 #### Formateur
--  Nehemie Balukidi, @olfredos6
+-  Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
 
 ### Apprentis
-- [Noms, compte-GitHub]
+- Noms, [compte GitHub](URL profil GitHub)
 
 ## Contributions
 

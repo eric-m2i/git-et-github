@@ -25,7 +25,7 @@ Pour contribuer, suivez ces étapes simples :
 5. Modifiez le fichier `README.md` et ajoutez votre nom à la liste des apprentis. Vous pouvez le faire en ajoutant une nouvelle ligne avec votre nom, comme ceci :
 
 ```md
-    - Votre Nom, Votre nom @ GitHub
+    - Votre Nom, [Votre nom @ GitHub](URL vers votre profil GitHub)
 ```
 
 6. Enregistrez le fichier `README.md`.
