@@ -31,6 +31,9 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Rayane Bensalah, [Rayane-Bensalah](https://github.com/Rayane-Bensalah)
+- Aurore, [AuroreDsmith](https://github.com/AuroreDsmith)
+- JM, [JM-LA](https://github.com/JM-LA)
 
 ## Contributions
 
