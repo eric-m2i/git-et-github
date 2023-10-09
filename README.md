@@ -41,6 +41,7 @@ Il est organisé comme suit :
 - Rayane Bensalah, [Rayane-Bensalah](https://github.com/Rayane-Bensalah)
 - Aurore, [AuroreDsmith](https://github.com/AuroreDsmith)
 - JM, [JM-LA](https://github.com/JM-LA)
+- Matéo Brunetti, [Matéo-Brunetti](https://github.com/MateoBrunetti/)
 - Sebastien Petit, [@Orkall](https://github.com/Orkall)
 
 
