@@ -27,6 +27,7 @@ Il est organisé comme suit :
 ### Formateur
 
 - Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
+- sofiane IDRI  , [@Sof-dev](https://github.com/Sof-dev/)
 
 ### Apprentis
 
