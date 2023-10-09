@@ -34,6 +34,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+-DESJARDINS GILLES ,[GDESJ28](https://github.com/GDESJ28)
 
 ## Contributions
 
