@@ -31,6 +31,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- JM, [JM-LA](https://github.com/JM-LA)
 
 ## Contributions
 
