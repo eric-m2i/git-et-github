@@ -28,11 +28,12 @@ Il est organisé comme suit :
 
 - Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
 
--sofiane IDRI  , [@Sof-dev](https://github.com/Sof-dev/)
+
 
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- sofiane IDRI  , [@Sof-dev](https://github.com/Sof-dev/)
 
 ## Contributions
 
