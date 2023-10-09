@@ -24,6 +24,8 @@ Il est organisé comme suit :
 
 ## Participants
 
+
+
 ### Formateur
 
 - Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
@@ -37,6 +39,7 @@ Il est organisé comme suit :
 - Aurore, [AuroreDsmith](https://github.com/AuroreDsmith)
 - Arnaud, [tintin0013](https://github.com/tintin0013)
 - Duminy, [dev-allan](https://github.com/dev-allan)
+- Gilles,[GDESJ28](https://github.com/GDESJ28)
 - Rayane Bensalah, [Rayane-Bensalah](https://github.com/Rayane-Bensalah)
 - JM, [JM-LA](https://github.com/JM-LA)
 - Matéo Brunetti, [Matéo-Brunetti](https://github.com/MateoBrunetti/)
