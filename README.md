@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Noms, [compte GitHub](URL profil GitHub)
+- Sebastien Petit, [@Orkall](https://github.com/Orkall)
 
 ## Contributions
 
