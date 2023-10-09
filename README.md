@@ -31,6 +31,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Mickaël, [https://github.com/MickaelSeffar]
 
 ## Contributions
 
