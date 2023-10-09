@@ -31,6 +31,8 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Arnaud, [tintin0013](https://github.com/tintin0013)
+
 
 ## Contributions
 
