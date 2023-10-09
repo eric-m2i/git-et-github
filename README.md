@@ -32,6 +32,7 @@ Il est organisé comme suit :
 
 - Noms, [compte GitHub](URL profil GitHub)
 - JM, [JM-LA](https://github.com/JM-LA)
+- Matéo Brunetti, [Matéo-Brunetti](https://github.com/MateoBrunetti/)
 
 ## Contributions
 
