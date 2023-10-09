@@ -46,6 +46,7 @@ Il est organisé comme suit :
 - Mickaël, [https://github.com/MickaelSeffar]
 - Mimoune, [Moussa-Mimoune](https://github.com/Moussa-Mimoune)
 - Sebastien Petit, [@Orkall](https://github.com/Orkall)
+- Vincent, [vincentdevweb](https://github.com/vincentdevweb)
 
 ## Contributions
 
