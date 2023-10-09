@@ -31,6 +31,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Alexandre, [Thunderblocker](https://github.com/Thunderblocker)
 
 - Arnaud, [tintin0013](https://github.com/tintin0013)
 - Duminy, [dev-allan](https://github.com/dev-allan)
