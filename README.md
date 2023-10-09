@@ -35,7 +35,7 @@ Il est organisé comme suit :
 
 - Noms, [compte GitHub](URL profil GitHub)
 - Alexandre, [Thunderblocker](https://github.com/Thunderblocker)
-
+- Vincent, [vincentdevweb](https://github.com/vincentdevweb)
 - Arnaud, [tintin0013](https://github.com/tintin0013)
 - Duminy, [dev-allan](https://github.com/dev-allan)
 - Rayane Bensalah, [Rayane-Bensalah](https://github.com/Rayane-Bensalah)
