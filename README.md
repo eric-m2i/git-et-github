@@ -31,6 +31,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Aurore, [AuroreDsmith](https://github.com/AuroreDsmith)
 - JM, [JM-LA](https://github.com/JM-LA)
 
 ## Contributions
