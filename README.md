@@ -30,6 +30,9 @@ Il est organisé comme suit :
 
 ### Apprentis
 
+
+- Noms, [compte GitHub](URL profil GitHub)
+- JM, [JM-LA](https://github.com/JM-LA)
 - Sebastien Petit, [@Orkall](https://github.com/Orkall)
 
 ## Contributions
