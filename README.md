@@ -31,6 +31,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Duminy, [dev-allan](https://github.com/dev-allan)
 
 ## Contributions
 
