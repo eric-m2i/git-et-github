@@ -30,8 +30,8 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Mimoune, [Moussa-Mimoune](https://github.com/Moussa-Mimoune)
 - Noms, [compte GitHub](URL profil GitHub)
+- Mimoune, [Moussa-Mimoune](https://github.com/Moussa-Mimoune)
 - JM, [JM-LA](https://github.com/JM-LA)
 
 ## Contributions
