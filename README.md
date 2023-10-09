@@ -32,6 +32,7 @@ Il est organisé comme suit :
 
 - Noms, [compte GitHub](URL profil GitHub)
 - Mickaël, [https://github.com/MickaelSeffar]
+- JM, [JM-LA](https://github.com/JM-LA)
 
 ## Contributions
 
