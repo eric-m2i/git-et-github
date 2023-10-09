@@ -23,7 +23,6 @@ Il est organisé comme suit :
 - L'évaluation finale est [Exercice 4](./exercices/Git%20et%20Github%20_%20versionner%20son%20code%20et%20travail%20collaboratif-Exercice-4.pdf) et vise à valider les compétences acquises tout au long de ce cour.
 
 ## Participants
--DESJARDINS GILLES ,[GDESJ28](https://github.com/GDESJ28)
 
 
 
@@ -34,7 +33,8 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
--DESJARDINS GILLES ,[GDESJ28](https://github.com/GDESJ28)
+- JM, [JM-LA](https://github.com/JM-LA)
+-Gilles,[GDESJ28](https://github.com/GDESJ28)
 
 ## Contributions
 
