@@ -30,6 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
+
 - Noms, [compte GitHub](URL profil GitHub)
 - Alexandre, [Thunderblocker](https://github.com/Thunderblocker)
 
@@ -38,6 +39,7 @@ Il est organisé comme suit :
 - Rayane Bensalah, [Rayane-Bensalah](https://github.com/Rayane-Bensalah)
 - Aurore, [AuroreDsmith](https://github.com/AuroreDsmith)
 - JM, [JM-LA](https://github.com/JM-LA)
+- Sebastien Petit, [@Orkall](https://github.com/Orkall)
 
 
 ## Contributions
