@@ -30,11 +30,22 @@ Il est organisé comme suit :
 
 - Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
 
+-sofiane IDRI  , [@Sof-dev](https://github.com/Sof-dev/)
+
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Alexandre, [Thunderblocker](https://github.com/Thunderblocker)
+- Aurore, [AuroreDsmith](https://github.com/AuroreDsmith)
+- Arnaud, [tintin0013](https://github.com/tintin0013)
+- Duminy, [dev-allan](https://github.com/dev-allan)
+- Gilles,[GDESJ28](https://github.com/GDESJ28)
+- Rayane Bensalah, [Rayane-Bensalah](https://github.com/Rayane-Bensalah)
 - JM, [JM-LA](https://github.com/JM-LA)
--Gilles,[GDESJ28](https://github.com/GDESJ28)
+- Matéo Brunetti, [Matéo-Brunetti](https://github.com/MateoBrunetti/)
+- Mickaël, [https://github.com/MickaelSeffar]
+- Mimoune, [Moussa-Mimoune](https://github.com/Moussa-Mimoune)
+- Sebastien Petit, [@Orkall](https://github.com/Orkall)
 
 ## Contributions
 
