@@ -33,6 +33,7 @@ Il est organisé comme suit :
 - Noms, [compte GitHub](URL profil GitHub)
 - JM, [JM-LA](https://github.com/JM-LA)
 - David, [@DsaTechX](https://github.com/DsaTechX)
+&emsp;Plein de projets en perspective
 
 ## Contributions
 
