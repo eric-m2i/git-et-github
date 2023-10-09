@@ -38,6 +38,7 @@ Il est organisé comme suit :
 - Alexandre, [Thunderblocker](https://github.com/Thunderblocker)
 - Aurore, [AuroreDsmith](https://github.com/AuroreDsmith)
 - Arnaud, [tintin0013](https://github.com/tintin0013)
+- David, [@DsaTechX](https://github.com/DsaTechX)
 - Duminy, [dev-allan](https://github.com/dev-allan)
 - Gilles,[GDESJ28](https://github.com/GDESJ28)
 - Rayane Bensalah, [Rayane-Bensalah](https://github.com/Rayane-Bensalah)
