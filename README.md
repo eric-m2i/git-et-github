@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Noms, [compte GitHub](URL profil GitHub)
+- Mimoune, [Moussa-Mimoune](https://github.com/Moussa-Mimoune)
 
 ## Contributions
 
