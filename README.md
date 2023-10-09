@@ -41,8 +41,8 @@ Il est organisé comme suit :
 - JM, [JM-LA](https://github.com/JM-LA)
 - Matéo Brunetti, [Matéo-Brunetti](https://github.com/MateoBrunetti/)
 - Mickaël, [https://github.com/MickaelSeffar]
+- Mimoune, [Moussa-Mimoune](https://github.com/Moussa-Mimoune)
 - Sebastien Petit, [@Orkall](https://github.com/Orkall)
-
 
 ## Contributions
 
